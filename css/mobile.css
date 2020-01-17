@@ -1,0 +1,108 @@
+@media only screen and (max-width: 1346px) {
+	 
+}
+@media (min-width:768px) and (max-width:1024px){
+
+	 
+
+}
+@media only screen and (max-width: 768px) {
+	.menu-nav {
+	    background: #fff;
+        width: 70%;
+        position: fixed;
+        left: -100%;
+        top: 0;
+        -moz-transition: left ease .4s;
+        -webkit-transition: left ease .4s;
+        transition: left ease .4s;
+        bottom: 0;
+        height: 100%;
+        z-index: 9200;
+        -moz-box-shadow: 0px 0px 18px 0px rgba(0, 0, 0, 0.48);
+        -webkit-box-shadow: 0px 0px 18px 0px rgba(0, 0, 0, 0.48);
+        box-shadow: 0px 0px 18px 0px rgba(0, 0, 0, 0.48);
+        overflow: auto;
+	}
+	div#gioithieu iframe {
+	    width: 100%;
+	    height: 300px;
+	}
+	.title-slide {
+	    position: relative;
+	    width: 100%;
+	    padding: 10px;
+	    color: #333;
+	}
+	.text-slide h2 {
+	    font-size: 20px;
+	    font-weight: bold;
+	    font-family: sans-serif;
+	    padding-top: 30px;
+	    line-height: 30px;
+	    letter-spacing: 2px;
+	    text-align: center;
+	    margin: 0;
+	}
+	.btn-dk {
+	    text-align: center;
+	    float: left;
+	    padding: 30px 0;
+	    width: 100%;
+	}
+	.desc-gt {
+	    padding: 30px 0;
+	}
+	h2.title-gt {
+	    font-size: 18px;
+	}
+	div#dichvu {
+	    background: #fff;
+	    height: auto;
+	    padding: 30px 0;
+	    float: left;
+	    width: 100%;
+	    margin-bottom: 0px;
+	}
+	.item-dv-home {
+	    margin-bottom: 20px;
+	}
+	h2.title-ts {
+	    font-size: 20px;
+	}
+	.item-duan {
+	    float: left;
+	    width: 100%;
+	    margin-bottom: 10px;
+	    padding: 10px;
+	}
+	.title-ct-frms {
+	    padding-left: 0;
+	    padding-top: 20px;
+	}
+	.mobile{
+		display: block;
+		position: absolute;
+		right: 20px;
+		top: 30px;
+		font-size: 15px;
+	}
+	.topheader{
+		position: relative;
+	}
+	.menu-nav ul li a {
+	    float: left;
+	    width: 100%;
+	    padding: 10px 15px;
+	    line-height: normal;
+	    text-align: left;
+	}
+	.menu-nav ul li {
+	    float: left;
+	    width: 100%;
+	}
+	.menu-nav.pull-right.open {
+	    left: 0;
+	}
+}
+
