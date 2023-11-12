@@ -4,8 +4,79 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: Roboto;
+    src: url(./fonts/RobotoCondensed-Regular.ttf);
+}
+
+@font-face {
+    font-family: RobotoBold;
+    src: url(./fonts/RobotoCondensed-Bold.ttf);
+}
+
 .container {
     max-width: 1200px;
+}
+
+.bgr {
+    margin: 30px 0;
+    background-image: linear-gradient(rgb(144, 58, 35), rgb(141, 25, 28));
+    background-color: initial;
+    background-size: initial;
+    background-origin: initial;
+    background-position: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+}
+
+.divSelection {
+    float: left;
+    width: 100%;
+    margin: 30px 0;
+}
+
+.float {
+    float: left;
+    width: 100%;
+}
+
+.title {
+    text-align: center;
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgb(249, 187, 0);
+}
+
+.border {
+    border-width: 9px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(249, 187, 0);
+    background-image: linear-gradient(rgb(253, 251, 251), rgb(234, 237, 238));
+    background-color: initial;
+    background-size: initial;
+    background-origin: initial;
+    background-position: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+}
+
+.btn {
+    padding: 10px;
+    border: 0;
+    border-radius: 5px;
+    background-image: radial-gradient(circle, rgb(229, 45, 39), rgb(179, 18, 23));
+    background-color: initial;
+    background-size: initial;
+    background-origin: initial;
+    background-position: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+    text-transform: uppercase;
+    color: #fff;
 }
 
 img {
@@ -68,7 +139,7 @@ ul {
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: Roboto;
 }
 
 .float {
@@ -222,6 +293,7 @@ div#slider {
 
 div#slider {
     position: relative;
+    border-top: 1px solid #fff;
 }
 
 .slider {
@@ -478,7 +550,7 @@ div#slider {
 .form-right-slider button {
     width: 100%;
     padding: 10px;
-    border: 0;
+    /* border: 0; */
     border-radius: 5px;
     margin-bottom: 15px;
     background-image: radial-gradient(circle, rgb(229, 45, 39), rgb(179, 18, 23));
@@ -616,6 +688,10 @@ div#footer .ladi-overlay {
 
 /* css td */
 
+div#tongquan {
+    margin-top: 0;
+}
+
 div#tiendo {
     float: left;
     width: 100%;
@@ -660,6 +736,7 @@ div#tiendo {
     font-weight: bold;
     color: rgb(249, 187, 0);
     margin-bottom: 0;
+    margin-top: 0;
 }
 
 .title-td {
@@ -678,6 +755,7 @@ div#tiendo {
 .ct-td-line {
     float: left;
     width: 100%;
+    margin-top: 10px;
 }
 
 
@@ -894,6 +972,257 @@ h2.title-lh {
     padding: 0;
     padding-left: 30px;
 }
+
+
+/* css matbang */
+
+.title-mb h2 {
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+    margin-bottom: 30px;
+}
+
+.title-mb {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+.mt-mbda {
+    float: left;
+    width: 100%;
+    font-size: 15px;
+}
+
+.mt-mbda img {
+    width: 100%;
+    height: auto;
+}
+
+.title-tq span {
+    color: #fff;
+    font-size: 20px;
+}
+
+.title-tq h2 {
+    margin-bottom: 0;
+    margin-top: 50px;
+}
+
+.left-ct-list-tq {
+    float: left;
+    width: 60%;
+    color: #fff;
+    font-size: 20px;
+}
+
+.right-ct-list-tq {
+    float: left;
+    width: 40%;
+}
+
+.item-tq {
+    float: right;
+    width: 180px;
+    height: 180px;
+    border: 2px solid rgb(249, 187, 0);
+    margin: 20px 10px;
+    border-radius: 100%;
+    background: rgb(141, 25, 28);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #fff;
+}
+
+.item-tq h3 {
+    margin: 0;
+    text-transform: uppercase;
+    max-width: 140px;
+    text-align: center;
+}
+
+.item-tq h2 {
+    margin: 10px 0;
+    text-transform: uppercase;
+    font-size: 25px;
+    color: rgb(232, 226, 48);
+}
+
+.ct-form-tq {
+    padding: 0 100px;
+    margin: 50px 0;
+}
+
+.form-ct-qp h3 {
+    margin: 0;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.form-ct-qp {
+    padding: 30px;
+    text-align: center;
+    color: rgb(199, 31, 22);
+    float: left;
+    width: 100%;
+}
+
+.form-tq {
+    float: left;
+    width: 100%;
+    margin-top: 40px;
+}
+
+.form-tq h3 {
+    color: #333;
+    font-weight: normal;
+    font-size: 17px;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+.form-tq input {
+    padding: 10px;
+    border: 1px solid #252525;
+    border-radius: 5px;
+    margin-right: 15px;
+    width: 33%;
+    float: left;
+}
+
+.form-tq button {
+    width: 30%;
+}
+
+.form-ct-qp.border h4 {
+    color: #333;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+
+/* css vitri */
+
+.title-vt {
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    float: left;
+    width: 100%;
+}
+
+.title-h2-vt.title {
+    margin-bottom: 0;
+}
+
+.item-vt {
+    float: left;
+    width: 100%;
+    margin: 15px 0;
+}
+
+.item-vt ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    color: #fff;
+    font-size: 16px;
+}
+
+.item-vt ul li span {
+    padding: 8px 10px;
+    background: #fff;
+    color: rgb(141, 25, 28);
+    border-radius: 10px;
+    margin-right: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    min-width: 100px;
+    display: inline-block;
+    text-align: center;
+}
+
+.item-vt ul li {
+    padding: 0 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.left-vt {
+    width: 60%;
+    padding-right: 30px;
+    float: left;
+}
+
+.right-vt {
+    float: left;
+    width: 40%;
+}
+
+div#vitri {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+
+/* css animation word  */
+
+.comingsoon-loading {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.comingsoon-loading h1 {
+    position: absolute;
+    font-size: 20px;
+    color: #ffcc00;
+    -webkit-text-stroke: 2px black;
+    text-transform: uppercase;
+}
+
+.comingsoon-loading h1::before {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    color: black;
+    -webkit-text-stroke: 0px black;
+    border-right: 4px solid black;
+    overflow: hidden;
+    animation: animate 6s linear infinite;
+}
+
+
+/* animation to fill text */
+
+@keyframes animate {
+    0%,
+    10%,
+    100% {
+        width: 0;
+    }
+    50%,
+    70% {
+        width: 100%;
+    }
+}
+
+
+/*  */
 
 @keyframes fadeItIn {
     from {
