@@ -62,6 +62,15 @@ $(document).ready(function() {
         }
     });
 
+    $('.menu-nav ul li a').click(function() {
+        var idHref = $(this).attr("href");
+        if (idHref && idHref.length) {
+            $('html, body').animate({
+                scrollTop: $(idHref).offset().top + (-56)
+            }, 'slow');
+        }
+        return false;
+    });
 
     $(".slide-prd-sidebar").slick({
         dots: true,

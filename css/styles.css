@@ -234,6 +234,13 @@ div#slider {
     width: 100%;
 }
 
+div#header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
+
 #header #nav {
     background-image: linear-gradient(rgb(144, 58, 35), rgb(126, 40, 17));
     background-color: initial;
@@ -294,6 +301,7 @@ div#slider {
 div#slider {
     position: relative;
     border-top: 1px solid #fff;
+    margin-top: 56px;
 }
 
 .slider {
@@ -435,12 +443,14 @@ div#slider {
 .ct-left-top-slider h3 {
     text-transform: uppercase;
     font-size: 22px;
+    font-weight: bold;
 }
 
 .ct-left-top-slider h2 {
     color: yellow;
     font-size: 30px;
     text-transform: uppercase;
+    font-weight: bold;
 }
 
 .ct-left-bottom-slider {
