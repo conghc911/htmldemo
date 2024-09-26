@@ -5,15 +5,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Vinhomes Global Gate - Thành phố giao thương nơi cội nguồn di sản - Công ty Cổ phần Đầu tư Việt Á Land</title>
-    <meta name="description" content="Tọa lạc tại vị trí chiến lược của Trung tâm Kinh tế - Tài chính mang tầm khu vực và thế giới, Vinhomes Global Gate thừa hưởng những cú hích hạ tầng mạnh mẽ từ Quy hoạch Đồng bằng Sông Hồng, xứng tầm một thành phố thương mại quốc tế phía Bắc Thủ đô." />
+    <title>Sun Group Hà Nam - Thông tin cập nhật từ tập đoàn Sun Group</title>
+    <meta name="description" content="Sun Urban City Hà Nam với ý tưởng xây dựng một khu đô thị sinh thái, nghỉ dưỡng, vui chơi giải trí cao cấp bậc nhất tại miền Bắc." />
     <meta property="og:locale" content="vi_VN" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Vinhomes Global Gate - Thành phố giao thương nơi cội nguồn di sản - Công ty Cổ phần Đầu tư Việt Á Land" />
-    <meta property="og:description" content="Tọa lạc tại vị trí chiến lược của Trung tâm Kinh tế - Tài chính mang tầm khu vực và thế giới, Vinhomes Global Gate thừa hưởng những cú hích hạ tầng mạnh mẽ từ Quy hoạch Đồng bằng Sông Hồng, xứng tầm một thành phố thương mại quốc tế phía Bắc Thủ đô." />
-    <meta property="og:url" content="" />
+    <meta property="og:title" content="Sun Group Hà Nam - Thông tin cập nhật từ tập đoàn Sun Group" />
+    <meta property="og:description" content="Sun Urban City Hà Nam với ý tưởng xây dựng một khu đô thị sinh thái, nghỉ dưỡng, vui chơi giải trí cao cấp bậc nhất tại miền Bắc." />
+    <meta property="og:url" content="http://sunurban.city/" />
     <meta property="og:site_name" content="Bất động sản Sun Group" />
-    <meta property="og:image" content="" />
+    <meta property="og:image" content="http://sunurban.city/images/phoi-canh-shophouse-sun-urban-city.jpg" />
     <meta property="og:image:width" content="1500" />
     <meta property="og:image:height" content="843" />
     <meta property="og:image:type" content="image/jpeg" />
@@ -38,27 +38,40 @@
                 <div class="container">
                     <div class="nav">
                         <div class="logo">
-                            <a href=""><img src="./images/Asset-1.png" alt=""></a>
+                            <a href=""><img src="./images/logo-sun-group-ha-nam.svg" alt=""></a>
                         </div>
                         <div class="menu-nav">
                             <ul>
-                                <li><a href="#tongquan" data-id="tongquan" class="active">Tổng quan</a></li>
-                                <li><a href="#chinhsach" data-id="chinhsach">Chính sách</a></li>
+                                <li><a href="#slider" data-id="slider" class="active">Trang chủ</a></li>
                                 <li><a href="#vitri" data-id="vitri">Vị trí</a></li>
-                                <li><a href="#matbang" data-id="matbang">Mặt bằng</a></li>
-                                <li><a href="#thietke" data-id="thietke">Thiết kế</a></li>
-                                <li><a href="#tienich" data-id="tienich">Tiện ích</a></li>
+                                <li><a href="#loaihinh" data-id="loaihinh">Sản phẩm</a></li>
+                                <li><a href="#chinhsach" data-id="chinhsach">Chính sách</a></li>
+                                <li><a href="#tintuc" data-id="tintuc">Tin tức</a></li>
+                                <li><a href="#footer" data-id="footer">Liên hệ</a></li>
                             </ul>
+                        </div>
+                        <div class="hotline-nav">
+                            <div class="hotline-header">
+                                <a href="tel:0975969616">
+                                    <b><i class="text-phone"></i> <span>0975.9696.16</span></b>
+                                </a>
+                                <div class="pulse-icon hidden-sm">
+                                    <div class="icon-wrap"></div>
+                                    <div class="elements">
+                                        <div class="pulse pulse-1"></div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                         <div class="menu-nav__mobile">
                             <div class="menu-nav__mobile__title">Menu</div>
                             <ul>
-                                <li><a href="#tongquan" data-id="tongquan" class="active">Tổng quan</a></li>
-                                <li><a href="#chinhsach" data-id="chinhsach">Chính sách</a></li>
+                                <li><a href="#slider" data-id="slider" class="active">Trang chủ</a></li>
                                 <li><a href="#vitri" data-id="vitri">Vị trí</a></li>
-                                <li><a href="#matbang" data-id="matbang">Mặt bằng</a></li>
-                                <li><a href="#thietke" data-id="thietke">Thiết kế</a></li>
-                                <li><a href="#tienich" data-id="tienich">Tiện ích</a></li>
+                                <li><a href="#loaihinh" data-id="loaihinh">Sản phẩm</a></li>
+                                <li><a href="#chinhsach" data-id="chinhsach">Chính sách</a></li>
+                                <li><a href="#tintuc" data-id="tintuc">Tin tức</a></li>
+                                <li><a href="#footer" data-id="footer">Liên hệ</a></li>
                             </ul>
                         </div>
                     </div>
@@ -70,133 +83,92 @@
             <div class="slider">
                 <div class="slider-home">
                     <div class="slider-home-ct">
-                        <img src="./images/banner-desktop-2.jpg" alt="">
+                        <img src="./images/banner-sun-urban-city.jpg" alt="">
                     </div>
                 </div>
             </div>
         </div>
-        <div id="sukien" class="bg-blue-page">
+        <div id="sukien">
             <div class="container">
                 <div class="sukien_content">
                     <div class="sukien_content__title">
-                        <h3>CHÍNH THỨC MỞ BÁN NHÀ PHỐ - BIỆT THỰ</h3>
-                        <h2>VINHOMES GLOBAL GATE</h2>
-                        <h3>VINHOMES CỔ LOA</h3>
+                        <h3>Sungroup Hà Nam</h3>
+                        <span>Sự kiện mới nhất tháng 7/2024</span>
+                        <div class="sukien_content__img_bg"><img src="./images/line-ha-nam.png" alt=""></div>
                     </div>
                     <div class="sukien_content__description">
-                        <div id="text-content-sk" class="text">
+                        <div id="text-745667451" class="text">
+
                             <ul>
-                                <li>Hỗ trợ lãi suất 0% trong 18 tháng</li>
-                                <li>Ưu đãi thêm chương trình Vinclub đến 1,5%</li>
-                                <li>Miễn phí dịch vụ 24 tháng</li>
-                                <li>Mua sỉ từ 2 căn ưu đãi 0,3%</li>
-                                <li>Ưu đãi thanh toán sớm 10%</li>
-                                <li>Chiết khấu dòng tiền TTS 11%/năm</li>
+                                <li>Đang thi công nhà mẫu giai đoạn 1</li>
+                                <li>Dự kiến tháng 7 kick off hệ thống phân phối</li>
+                                <li>Dự kiến tháng 8 chính thức mở bán đợt 1 dòng sản phẩm căn hộ và liền kề, shophouse với thương hiệu mang tên <strong>Sun Urban City</strong> – Thành phố thời đại.</li>
+                                <li>Đang nhận đặt cọc thiện chí booking giữ chỗ có hoàn lại với <span style="text-decoration: underline;"><strong>50 triệu/1 booking</strong></span>. Hãy liên hệ với Hotline để nhận được ưu đãi dành cho khách hàng đặt booking
+                                    sớm nhất!</li>
                             </ul>
+
+                            <style>
+                                #text-745667451 {
+                                    text-align: left;
+                                }
+                            </style>
                         </div>
-                        <div class="infodk">
-                            <p>Ngay bây giờ, quý khách hàng có thể ĐĂNG KÝ NGAY bên dưới để được lựa chọn sở hữu những sản phẩm ĐẸP với GIÁ TỐT NHẤT tại DỰ ÁN VINHOMES CỔ LOA từ chuyên viên kinh doanh Vinhomes</p>
-                            <h3>LIÊN HỆ NGAY HOTLINE: <b>0918 49 5678</b></h3>
-                            <p>Hoặc điền đầy đủ thông tin bên dưới để được tư vấn chi tiết BOOKING/CỌC và nhận báo giá từng căn:</p>
-                        </div>
-                        <div class="dangky_content__form">
-                            <form action="">
-                                <input type="text" placeholder="Tên của quý khách">
-                                <input type="number" placeholder="Nhập số điện thoại">
-                                <input type="email" placeholder="Nhập email">
-                                <input type="submit" value="Đăng ký">
-                            </form>
-                        </div>
-                        <p class="camketbm">Cam kết bảo mật thông tin*</p>
                     </div>
                 </div>
             </div>
         </div>
-        <div id="tongquan" class="bg-blue-page">
+        <div id="dangky">
             <div class="container">
-                <div class="tongquan">
-                    <div class="logo-tq"><img src="./images/Asset-1.png" alt=""></div>
-                    <div class="cap-tongquan">
-                        <h3>VINHOMES GLOBAL GATE CỔ LOA</h3>
-                        <h2>Thành phố giao thương nơi cội nguồn di sản</h2>
-                        <div class="desc-tongquan">
-                            <p>Từ vùng đất linh thiêng thắng địa lịch sử Cổ Loa đến Thành phố giao thương quốc tế với những công trình biểu tượng mới của Thủ đô.</p>
-                            <p> Từ thành cổ bên sông Hồng hoá rồng trở thành Thành phố bên sông thịnh vượng, hiện thực hoá giấc mơ lớn của Thủ đô.</p>
-                            <p>Từ mảnh đất địa linh nhân kiệt, được vua An Dương Vương lựa chọn làm kinh đô trong lịch sử, nay trở thành một điểm đến giao thương quốc tế, nơi giới tinh anh toàn cầu hội tụ.</p>
-                            <p>Từ miền di sản của dân tộc đã kết tinh thành bảo vật truyền đời cho thế hệ mai sau.</p>
-                        </div>
+                <div class="dangky_content">
+                    <div class="dangky_content__title">
+                        <span>Đăng ký nhận tài liệu dự án</span>
                     </div>
-                    <div class="vd-tongquanq">
-                        <iframe allowfullscreen  src="https://player.vimeo.com/video/1008855798?color&autopause=0&loop=0&muted=0&title=0&portrait=0&byline=0#t=" frameborder="0" width="100%"></iframe>
+                    <div class="dangky_content__form">
+                        <form action="">
+                            <input type="text" placeholder="Tên của quý khách">
+                            <input type="number" placeholder="Nhập số điện thoại">
+                            <input type="email" placeholder="Nhập email">
+                            <input type="submit" value="Đăng ký">
+                        </form>
                     </div>
                 </div>
             </div>
+        </div>
+        <div id="tongquan" class="bgr divSelection">
+            <img src="./images/tong-mat-bang-sun-urban-city-phu-ly.jpg" alt="">
         </div>
         <div id="tongquanda">
-            <div class="item-tongquanda-left">
-                <h3>TỔNG QUAN</h3>
-                <h2>VINHOMES</h2>
-                <h2>GLOBAL GATE</h2>
-            </div>
-            <div class="item-tongquanda-right">
-                <div class="item-list-tqda">
-                    <h3>CHỦ ĐẦU TƯ</h3>
-                    <ul>
-                        <li>Vinhomes</li>
-                        <li>Thuộc tập đoàn Vingroup</li>
-                    </ul>
-                </div>
-                <div class="item-list-tqda">
-                    <h3>QUY MÔ</h3>
-                    <ul>
-                        <li>385 ha – 4.147 sản phẩm</li>
-                        <li>Chia thành 3 phân khu</li>
-                    </ul>
-                </div>
-                <div class="item-list-tqda">
-                    <h3>GIÁ BÁN</h3>
-                    <ul>
-                        <li>Nhà phố từ 17 tỷ/căn</li>
-                        <li>Biệt thự từ 37 tỷ/căn</li>
-                    </ul>
-                </div>
-                <div class="item-list-tqda">
-                    <h3>PHÁP LÝ</h3>
-                    <ul>
-                        <li>Minh bạch, đầy đủ</li>
-                        <li>Sổ riêng sở hữu lâu dài</li>
-                    </ul>
-                </div>
-                <div class="item-list-tqda">
-                    <h3>VỊ TRÍ</h3>
-                    <ul>
-                        <li>Đường Trường Sa – Đông Anh – Hà Nội</li>
-                    </ul>
-                </div>
-                <div class="item-list-tqda">
-                    <h3>PHÂN KHU</h3>
-                    <ul>
-                        <li>Phân khu Tinh Hoa</li>
-                        <li>Phân khu Thịnh Vượng</li>
-                        <li>Phân khu Cát Tường</li>
-                    </ul>
-                </div>
-                <div class="item-list-tqda">
-                    <h3>TIỆN ÍCH</h3>
-                    <ul>
-                        <li>Hơn 40ha cây xanh và mặt nước</li>
-                        <li>7,4ha công viên nội khu</li>
-                        <li>32ha hồ trung tâm</li>
-                    </ul>
-                </div>
-                <div class="item-list-tqda">
-                    <h3>LOẠI HÌNH SẢN PHẨM</h3>
-                    <ul>
-                        <li>Nhà Liền kề</li>
-                        <li>Biệt thự Tam lập – Tứ lập</li>
-                        <li>Biệt thự Song lập</li>
-                        <li>Biệt thự Đơn lập</li>
-                    </ul>
+            <div class="container">
+                <div class="tongquan_content">
+                    <div class="sukien_content__title">
+                        <h3>Tổng quan dự án</h3>
+                        <span>Sungroup Hà Nam</span>
+                        <div class="sukien_content__img_bg"><img src="./images/line-ha-nam.png" alt=""></div>
+                    </div>
+                    <div class="tongquan_content__description">
+                        <div class="tongquan_content__description__mota">
+                            <p>Với vị trí địa lý gần thủ đô Hà Nội (Chỉ chưa đầy 50km và 45 phút di chuyển), Hà Nam – vùng đất di sản, hứa hẹn là điểm du lịch đáng phải đến bậc nhất miền Bắc trong tương lai gần. Đặc biệt đây sẽ là 1 trong 3 mũi nhọn du lịch
+                                mang thương hiệu của Sun Group tại miền bắc: Thanh Hóa, Hòa Bình, Hà Nam</p>
+                        </div>
+                        <div class="tongquan_content__description__nd">
+                            <div class="tongquan_content__description__nd__left">
+                                <ul>
+                                    <li><strong>Tên đại dự án:</strong> <a href="https://#/">Sun Group Hà Nam</a>, Sun Hà Nam.</li>
+                                    <li><strong>Tên gọi giai đoạn 1:</strong> Sun Urban City – Thành phố thời đại</li>
+                                    <li><strong>Chủ đầu tư:</strong> Sun Group ® (Công ty cổ phần tập đoàn Mặt Trời)</li>
+                                    <li><strong>Vị trí dự án:</strong> TP Phủ Lý, Tỉnh Hà Nam</li>
+                                    <li><strong>Quy mô dự án:</strong> 404,8ha</li>
+                                    <li><strong>Sản phẩm:</strong> Biệt thự đơn lập, biệt thự song lập, liền kề, shophouse, căn hộ</li>
+                                    <li><strong>Hoàn thiện:</strong> Xây thô, hoàn thiện mặt ngoài</li>
+                                    <li><strong>Hình thức sở hữu:</strong> Lâu dài (Vĩnh viễn)</li>
+                                    <li><strong>Giá bán:</strong> Đang cập nhật</li>
+                                </ul>
+                            </div>
+                            <div class="tongquan_content__description__nd__left">
+                                <img src="./images/Phoi-canh-tong-the-du-an-sun-urban-city-ha-nam-01-1360x765.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -223,111 +195,134 @@
             </div>
         </div> -->
 
-        <div id="vitri" class="bg-blue-page">
+        <div id="vitri" class="float bgr">
+            <div class="vitri__bg fill__bg bg-fill">
+                <div class="section-bg-overlay absolute fill"></div>
+            </div>
             <div class="container">
                 <div class="ct-vitri">
                     <div class="ct-vitri-title">
-                        <div class="number-vt"><span>06</span></div>
-                        <div class="cap-vt">
-                            <h3>ƯU ĐIỂM KHÁC BIỆT TUYỆT ĐỐI</h3>
-                            <h4>CỦA VINHOMES GLOBAL GATE</h4>
-                        </div>
+                        <h3>Vị trí vàng</h3>
                     </div>
                     <div class="ct-vitri__description">
-                          <div class="list-item-vt">
-                            <div><img src="./images/kimcuong.png" alt=""></div>
-                            <p>Địa thế vượng khí sinh tài</p>
-                          </div>
-                          <div class="list-item-vt">
-                            <div><img src="./images/chus.png" alt=""></div>
-                            <p>Thành phố siêu kết nối</p>
-                          </div>
-                          <div class="list-item-vt">
-                            <div><img src="./images/quacau.png" alt=""></div>
-                            <p>Phong cách sống toàn cầu</p>
-                          </div>
-                          <div class="list-item-vt">
-                            <div><img src="./images/thuongmai.png" alt=""></div>
-                            <p>Thành phố thương mại quốc tế</p>
-                          </div>
-                          <div class="list-item-vt">
-                            <div><img src="./images/tangtruong.png" alt=""></div>
-                            <p>Tài sản truyền đời sinh lời vượt trội</p>
-                          </div>
-                          <div class="list-item-vt">
-                            <div><img src="./images/phaply.png" alt=""></div>
-                            <p>Pháp lý an toàn tuyệt đối</p>
-                          </div>
+                        <div class="ct-vitri__description__cap">
+                            <h3>Trung tâm kết nối</h3>
+                            <div class="ct-vitri__description__cap__des">
+                                <p>Nằm tại thành phố Phủ Lý, gần với trục giao thông huyết mạch QL1A, tổ hợp dự án Sun Urban City Hà Nam sở hữu cho mình một vị trí vô cùng đắc địa khi cùng lúc có 03 yếu tố: Giao thông thuận tiện, thiên nhiên hùng vĩ, liên
+                                    kết du lịch, văn hóa phong phú, đa dạng.</p>
+                                <ul>
+                                    <li>Phía Tây giáp Hòa Bình</li>
+                                    <li>Phía Đông tiếp giáp với các tỉnh Hưng Yên</li>
+                                    <li>Phía Nam tiếp giáp với tỉnh Nam Định</li>
+                                    <li>Phía Đông Bắc tiếp giáp với tỉnh Thái Bình</li>
+                                    <li>Nhà thi đấu Hà Nam nằm trong quy mô của dự án.</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="ct-vitri__description__cap__img">
+                            <img src="./images/vi-tri-sun-ha-nam.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="ct-vitri__map">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d29885.389505857667!2d105.927481!3d20.560528!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjDCsDMzJzM3LjEiTiAxMDXCsDU1JzM2LjYiRQ!5e0!3m2!1svi!2sus!4v1722271232874!5m2!1svi!2sus" width="600" height="450"
+                            style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
             </div>
         </div>
-        <div id="dangky">
-            <div class="mota-dk">
-                <h3>Nhận TRỌN BỘ THÔNG TIN</h3>
-                <p>Để tiết kiệm thời gian tìm hiểu dự án, quý anh/chị vui lòng để lại thông tin liên hệ, chuyên viên kinh doanh sẽ kết nối và gửi thông tin cho anh chị qua SĐT/ZALO/VIBER/EMAIL.</p>
-                <p>Hoặc liên hệ HOTLINE: <b>0918 49 5678</b></p>
-            </div>
-            <div class="dangky_content__form">
-                <form action="">
-                    <input type="text" placeholder="Tên của quý khách">
-                    <input type="number" placeholder="Nhập số điện thoại">
-                    <input type="email" placeholder="Nhập email">
-                    <input type="submit" value="Đăng ký">
-                </form>
-            </div>
-        </div>
-        <div id="tongthevt">
-            <img src="./images/tong-the-vitri.jpg" alt="">
-            <div class="cap-tongthe">
-                <p>Địa thế Vượng khí Sinh tài tại đô thị cổ – KINH ĐÔ CỔ LOA được bao bọc bởi 4 dòng sông lịch sử: Sông HỒNG – Sông ĐUỐNG – Sông NGŨ HUYỆN KHÊ – Sông HOÀNG GIANG</p>
-            </div>
-        </div>
+
         <div id="loaihinh">
             <div class="">
                 <div class="ct-loaihinh">
                     <div class="list-item-lh">
+                        <div class="left-lh">
+                            <img src="./images/phoi-canh-chung-cu-sun-urban-city.jpg" alt="">
+                        </div>
                         <div class="right-lh">
                             <div class="title-r-lh">
-                                <h2>VỊ TRÍ</h2>
-                                <h3>TÂM ĐIỂM SIÊU KẾT NỐI</h3>
+                                <h2>Căn hộ chung cư</h2>
                             </div>
                             <div class="ct-r-lh ct-r-lh-p">
-                                <p>Tọa lạc tại vị trí chiến lược của Trung tâm Kinh tế – Tài chính mang tầm khu vực và thế giới, Vinhomes Global Gate thừa hưởng những cú hích hạ tầng mạnh mẽ từ Quy hoạch Đồng bằng Sông Hồng, xứng tầm một thành phố thương mại quốc tế phía Bắc Thủ đô.</p>
-                                <p>❝ Tâm điểm phía Đông Bắc liền kề lõi trung tâm Thủ đô.</p>
-                                <p>❝ Siêu kết nối nhanh chóng tới sân bay Quốc tế Nội Bài, trung tâm Hà Nội và vùng kinh tế trọng điểm miền Bắc: Hải Phòng, Quảng Ninh, Bắc Ninh, Bắc Giang, Thái Nguyên</p>
-                                <p>❝ 5 phút tới hồ Hoàn Kiếm</p>
-                                <p>❝ 15 phút tới sân bay Nội Bài</p>
-                                <p>❝ 15 phút đến Vinhomes Riverside.</p>
+                                <p>Căn hộ tại dự án Sun Hà Nam sẽ được đặt tên là Sun Urban City với chiều cao các tòa là 9 tầng. Điểm nhấn nổi bật nhất của dòng sản phẩm căn hộ tại dự án đó là CĐT Sun Group sẽ xây dựng căn hộ với chiều cao mỗi tầng là 4,5m,
+                                    điều này giúp gia chủ có thể thiết kế căn hộ có thêm 1 gác lửng, giúp gia tăng diện tích sử dụng</p>
                             </div>
-                            
-                        </div>
-                        <div class="left-lh">
-                            <img src="./images/map.jpg" alt="">
+                            <div class="ct-r-b-lh ct-r-lh-p">
+                                <ul>
+                                    <li>Số tòa: Dự kiến 9 tòa</li>
+                                    <li>Số tầng: 9 tầng</li>
+                                    <li>Loại hình: Studio, 1PN. 1PN+1, 2PN, 3PN</li>
+                                    <li>Thiết kế đặc biệt với chiều cao trần lên đến 4,5m</li>
+                                    <li>Đang nhận giữ chỗ 50 triệu/căn</li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
-                     
+                    <div class="list-item-lh item-even">
+                        <div class="right-lh">
+                            <div class="title-r-lh">
+                                <h2>Biệt thự đơn lập</h2>
+                            </div>
+                            <div class="ct-r-lh ct-r-lh-p">
+                                <p>Biệt thự đơn lập Sun Hà Nam có kiến trúc hiện đại hòa quyện cùng không gian sống hoàn mỹ với cảnh quan xanh mướt Diện tích sử dụng mỗi sàn lên tới 120m2, không gian rộng rãi thỏa sức sáng tạo, mỗi căn biệt thự sẽ là tuyên
+                                    ngôn về đẳng cấp, phong cách tinh tế và gout thẩm mỹ riêng của gia chủ. Diện tích đất: 280 – 403 m2 Kích thước: Mặt tiền nhà 9m. Mặt tiền đất từ 14 – 20m. Chiều sâu nhà : 20m Mật độ xây dựng: 40% Xây dựng: 3 tầng,
+                                    mỗi sàn 120m2</p>
+                            </div>
+                        </div>
+                        <div class="left-lh">
+                            <img src="./images/biet-thu-don-lap-sun-hoa-binh-01.jpeg" alt="">
+                        </div>
+
+                    </div>
+                    <div class="list-item-lh">
+                        <div class="left-lh">
+                            <img src="./images/biet-thu-song-lap-sun-ha-nam-01.jpeg" alt="">
+                        </div>
+                        <div class="right-lh">
+                            <div class="title-r-lh">
+                                <h2>Biệt thự song lập</h2>
+                            </div>
+                            <div class="ct-r-lh ct-r-lh-p">
+                                <p>Biệt thự song lập Sun Hà Nam có diện tích đất từ 170m² đến 312m². Xây dựng 3 tầng có thang máy. Mặt tiền nhà 7m dễ dàng bố trí nội thất. Mặt tiền đất nhỏ nhất 9m, vừa đủ không gian sân vườn, cảnh quan Với thiết kế hiện
+                                    đại, Tất cả các phòng chức năng đều có ánh sáng tự nhiên và nhìn ra vườn, mang lại một luồng sinh khí thuận hòa và bình an</p>
+                            </div>
+                            <div class="ct-r-b-lh ct-r-lh-p">
+                                <ul>
+                                    <li>Số tầng: 3 tầng</li>
+                                    <li>Diện tích đất: 170 – 312 m2</li>
+                                    <li>Diện tích xây dựng: 100m2/sàn</li>
+                                    <li>Mật độ xây dựng: 40 – 55%</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="list-item-lh item-even">
+                        <div class="right-lh">
+                            <div class="title-r-lh">
+                                <h2>Shophouse nhà phố</h2>
+                            </div>
+                            <div class="ct-r-lh ct-r-lh-p">
+                                <p>Nhà phố shophouse tại dự án Sun Hà Nam sẽ có diện tích từ 60-120m2, xây dựng 3,5 tầng Các căn liền kề có khoảng sân trước và vườn sau, bố trí nhiều bồn cây tiểu cảnh và cây xanh lấy bóng mát. Bên cạnh đó, liền kề thiết
+                                    kế hệ thống cửa sổ lớn, ban công thoáng đón ánh nắng mặt trời và gió tự nhiên trong lành.</p>
+                            </div>
+                            <div class="ct-r-b-lh ct-r-lh-p">
+                                <ul>
+                                    <li>Mặt tiền nhà tối thiểu 6m</li>
+                                    <li>Số tầng: 3 tầng + 1 tum</li>
+                                    <li>Diện tích XD: 248 m2 sử dụng</li>
+                                    <li>Mật độ xây dựng: 70 – 75%</li>
+                                    <li>Đang nhận giữ chỗ với 50 triệu/căn</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="left-lh">
+                            <img src="./images/phoi-canh-shophouse-sun-urban-city.jpg" alt="">
+                        </div>
+
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="hinhanh">
-            <img src="./images/ft-img.jpg" alt="">
-        </div>
-        <div id="dangky">
-            <div class="mota-dk">
-                <h3>Nhận TRỌN BỘ THÔNG TIN</h3>
-                <p>Để tiết kiệm thời gian tìm hiểu dự án, quý anh/chị vui lòng để lại thông tin liên hệ, chuyên viên kinh doanh sẽ kết nối và gửi thông tin cho anh chị qua SĐT/ZALO/VIBER/EMAIL.</p>
-                <p>Hoặc liên hệ HOTLINE: <b>0918 49 5678</b></p>
-            </div>
-            <div class="dangky_content__form">
-                <form action="">
-                    <input type="text" placeholder="Tên của quý khách">
-                    <input type="number" placeholder="Nhập số điện thoại">
-                    <input type="email" placeholder="Nhập email">
-                    <input type="submit" value="Đăng ký">
-                </form>
-            </div>
-        </div>
+
         <div id="hethong">
             <div class="container">
                 <div class="ct-ht">
@@ -514,7 +509,7 @@
                             <div class="item-ft">
                                 <p><span><i class="fa fa-map-marker" aria-hidden="true"></i></span> Văn Phòng Hà Nội: Số 13 đường Hai Bà Trưng, quận Hoàn Kiếm, Hà Nội.</p>
                                 <p><span><i class="fa fa-map-marker" aria-hidden="true"></i></span> Địa chỉ dự án: Thành phố Phủ Lý, tỉnh Hà Nam.</p>
-                                <p><span><i class="fa fa-phone" aria-hidden="true"></i></span> <a href="tel:0985003003">0985.003.003</a></p>
+                                <p><span><i class="fa fa-phone" aria-hidden="true"></i></span> <a href="tel:">0975.9696.16</a></p>
                                 <p><span><i class="fa fa-envelope-o" aria-hidden="true"></i></span> conghc911@gmail.com</p>
                                 <p><span><i class="fa fa-phone" aria-hidden="true"></i></span> Thứ 2 - 7; 8h - 22h</p>
                             </div>
