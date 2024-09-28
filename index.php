@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Vinhomes Global Gate - Thành phố giao thương nơi cội nguồn di sản - Công ty Cổ phần Đầu tư Việt Á Land
+    </title>
+	<link rel="icon" type="image/x-icon" href="./images/favicon.ico">
+    <meta name="description"
+        content="Tọa lạc tại vị trí chiến lược của Trung tâm Kinh tế - Tài chính mang tầm khu vực và thế giới, Vinhomes Global Gate thừa hưởng những cú hích hạ tầng mạnh mẽ từ Quy hoạch Đồng bằng Sông Hồng, xứng tầm một thành phố thương mại quốc tế phía Bắc Thủ đô." />
+    <meta property="og:locale" content="vi_VN" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title"
+        content="Vinhomes Global Gate - Thành phố giao thương nơi cội nguồn di sản - Công ty Cổ phần Đầu tư Việt Á Land" />
+    <meta property="og:description"
+        content="Tọa lạc tại vị trí chiến lược của Trung tâm Kinh tế - Tài chính mang tầm khu vực và thế giới, Vinhomes Global Gate thừa hưởng những cú hích hạ tầng mạnh mẽ từ Quy hoạch Đồng bằng Sông Hồng, xứng tầm một thành phố thương mại quốc tế phía Bắc Thủ đô." />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="Bất động sản Sun Group" />
+    <meta property="og:image" content="" />
+    <meta property="og:image:width" content="1500" />
+    <meta property="og:image:height" content="843" />
+    <meta property="og:image:type" content="image/jpeg" />
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@5.3.7/dist/photoswipe.css">
+    <link rel="stylesheet" href="css/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/hover-min.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/slick.css">
+    <link rel="stylesheet" href="css/slick-theme.css">
+    <!-- <link rel="stylesheet" href="css/animate.css"> -->
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/mobile.css">
+</head>
+
+<body>
+
+    <div id="page" class="image-gallery">
+        <div id="header">
+            <div id="nav">
+                <div class="container">
+                    <div class="nav">
+                        <div class="logo">
+                            <a href=""><img src="./images/Asset-1.png" alt=""></a>
+                        </div>
+                        <div class="menu-nav">
+                            <ul>
+                                <li><a href="#sukien" data-id="sukien" class="active">Tổng quan</a></li>
+                                <li><a href="#vitri" data-id="vitri">Chính sách</a></li>
+                                <li><a href="#loaihinh" data-id="loaihinh">Vị trí</a></li>
+                                <li><a href="#hethong" data-id="hethong">Mặt bằng</a></li>
+                                <li><a href="#tongquanda" data-id="tongquanda">Thiết kế</a></li>
+                                <li><a href="#tienich" data-id="tienich">Tiện ích</a></li>
+                            </ul>
+                        </div>
+                        <div class="menu-nav__mobile">
+                            <div class="menu-nav__mobile__title">Menu</div>
+                            <ul>
+                                <li><a href="#sukien" data-id="sukien" class="active">Tổng quan</a></li>
+                                <li><a href="#vitri" data-id="vitri">Chính sách</a></li>
+                                <li><a href="#loaihinh" data-id="loaihinh">Vị trí</a></li>
+                                <li><a href="#hethong" data-id="hethong">Mặt bằng</a></li>
+                                <li><a href="#tongquanda" data-id="tongquanda">Thiết kế</a></li>
+                                <li><a href="#tienich" data-id="tienich">Tiện ích</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="slider">
+            <div class="slider">
+                <div class="slider-home">
+                    <div class="slider-home-ct">
+                        <img src="./images/banner-desktop-2.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="sukien" class="bg-blue-page">
+            <div class="container">
+                <div class="sukien_content">
+                    <div class="sukien_content__title">
+                        <h3>CHÍNH THỨC MỞ BÁN NHÀ PHỐ - BIỆT THỰ</h3>
+                        <h2>VINHOMES GLOBAL GATE</h2>
+                        <h3>VINHOMES CỔ LOA</h3>
+                    </div>
+                    <div class="sukien_content__description">
+                        <div id="text-content-sk" class="text">
+                            <ul>
+                                <li>Hỗ trợ lãi suất 0% trong 18 tháng</li>
+                                <li>Ưu đãi thêm chương trình Vinclub đến 1,5%</li>
+                                <li>Miễn phí dịch vụ 24 tháng</li>
+                                <li>Mua sỉ từ 2 căn ưu đãi 0,3%</li>
+                                <li>Ưu đãi thanh toán sớm 10%</li>
+                                <li>Chiết khấu dòng tiền TTS 11%/năm</li>
+                            </ul>
+                        </div>
+                        <div class="infodk">
+                            <p>Ngay bây giờ, quý khách hàng có thể ĐĂNG KÝ NGAY bên dưới để được lựa chọn sở hữu những
+                                sản phẩm ĐẸP với GIÁ TỐT NHẤT tại DỰ ÁN VINHOMES CỔ LOA từ chuyên viên kinh doanh
+                                Vinhomes</p>
+                            <h3>LIÊN HỆ NGAY HOTLINE: <b>0985.003.003</b></h3>
+                            <p>Hoặc điền đầy đủ thông tin bên dưới để được tư vấn chi tiết BOOKING/CỌC và nhận báo giá
+                                từng căn:</p>
+                        </div>
+                        <div class="dangky_content__form">
+                            <form action="">
+                                <input type="text" placeholder="Tên của quý khách">
+                                <input type="number" placeholder="Nhập số điện thoại">
+                                <input type="email" placeholder="Nhập email">
+                                <input type="submit" value="Đăng ký">
+                            </form>
+                        </div>
+                        <p class="camketbm">Cam kết bảo mật thông tin*</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="tongquan" class="bg-blue-page">
+            <div class="container">
+                <div class="tongquan">
+                    <div class="logo-tq"><img src="./images/Asset-1.png" alt=""></div>
+                    <div class="cap-tongquan">
+                        <h3>VINHOMES GLOBAL GATE CỔ LOA</h3>
+                        <h2>Thành phố giao thương nơi cội nguồn di sản</h2>
+                        <div class="desc-tongquan">
+                            <p>Từ vùng đất linh thiêng thắng địa lịch sử Cổ Loa đến Thành phố giao thương quốc tế với
+                                những công trình biểu tượng mới của Thủ đô.</p>
+                            <p> Từ thành cổ bên sông Hồng hoá rồng trở thành Thành phố bên sông thịnh vượng, hiện thực
+                                hoá giấc mơ lớn của Thủ đô.</p>
+                            <p>Từ mảnh đất địa linh nhân kiệt, được vua An Dương Vương lựa chọn làm kinh đô trong lịch
+                                sử, nay trở thành một điểm đến giao thương quốc tế, nơi giới tinh anh toàn cầu hội tụ.
+                            </p>
+                            <p>Từ miền di sản của dân tộc đã kết tinh thành bảo vật truyền đời cho thế hệ mai sau.</p>
+                        </div>
+                    </div>
+                    <div class="vd-tongquanq">
+                        <iframe allowfullscreen
+                            src="https://player.vimeo.com/video/1008855798?color&autopause=0&loop=0&muted=0&title=0&portrait=0&byline=0#t="
+                            frameborder="0" width="100%"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="tongquanda">
+            <div class="item-tongquanda-left">
+                <h3>TỔNG QUAN</h3>
+                <h2>VINHOMES</h2>
+                <h2>GLOBAL GATE</h2>
+            </div>
+            <div class="item-tongquanda-right">
+                <div class="item-list-tqda">
+                    <h3>CHỦ ĐẦU TƯ</h3>
+                    <ul>
+                        <li>Vinhomes</li>
+                        <li>Thuộc tập đoàn Vingroup</li>
+                    </ul>
+                </div>
+                <div class="item-list-tqda">
+                    <h3>QUY MÔ</h3>
+                    <ul>
+                        <li>385 ha – 4.147 sản phẩm</li>
+                        <li>Chia thành 3 phân khu</li>
+                    </ul>
+                </div>
+                <div class="item-list-tqda">
+                    <h3>GIÁ BÁN</h3>
+                    <ul>
+                        <li>Nhà phố từ 17 tỷ/căn</li>
+                        <li>Biệt thự từ 37 tỷ/căn</li>
+                    </ul>
+                </div>
+                <div class="item-list-tqda">
+                    <h3>PHÁP LÝ</h3>
+                    <ul>
+                        <li>Minh bạch, đầy đủ</li>
+                        <li>Sổ riêng sở hữu lâu dài</li>
+                    </ul>
+                </div>
+                <div class="item-list-tqda">
+                    <h3>VỊ TRÍ</h3>
+                    <ul>
+                        <li>Đường Trường Sa – Đông Anh – Hà Nội</li>
+                    </ul>
+                </div>
+                <div class="item-list-tqda">
+                    <h3>PHÂN KHU</h3>
+                    <ul>
+                        <li>Phân khu Tinh Hoa</li>
+                        <li>Phân khu Thịnh Vượng</li>
+                        <li>Phân khu Cát Tường</li>
+                    </ul>
+                </div>
+                <div class="item-list-tqda">
+                    <h3>TIỆN ÍCH</h3>
+                    <ul>
+                        <li>Hơn 40ha cây xanh và mặt nước</li>
+                        <li>7,4ha công viên nội khu</li>
+                        <li>32ha hồ trung tâm</li>
+                    </ul>
+                </div>
+                <div class="item-list-tqda">
+                    <h3>LOẠI HÌNH SẢN PHẨM</h3>
+                    <ul>
+                        <li>Nhà Liền kề</li>
+                        <li>Biệt thự Tam lập – Tứ lập</li>
+                        <li>Biệt thự Song lập</li>
+                        <li>Biệt thự Đơn lập</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- <div id="slide-home" class="float">
+            <div class="container">
+                <div class="ct-slider-home">
+                    <div class="slider-lh-s owl-theme">
+                        <div class="item">
+                            <img src="./images/slidehome1.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="./images/slidehome2.jpeg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="./images/slidehome1.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="./images/slidehome2.jpeg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+
+        <div id="vitri" class="bg-blue-page">
+            <div class="container">
+                <div class="ct-vitri">
+                    <div class="ct-vitri-title">
+                        <div class="number-vt"><span>06</span></div>
+                        <div class="cap-vt">
+                            <h3>ƯU ĐIỂM KHÁC BIỆT TUYỆT ĐỐI</h3>
+                            <h4>CỦA VINHOMES GLOBAL GATE</h4>
+                        </div>
+                    </div>
+                    <div class="ct-vitri__description">
+                        <div class="list-item-vt">
+                            <div><img src="./images/kimcuong.png" alt=""></div>
+                            <p>Địa thế vượng khí sinh tài</p>
+                        </div>
+                        <div class="list-item-vt">
+                            <div><img src="./images/chus.png" alt=""></div>
+                            <p>Thành phố siêu kết nối</p>
+                        </div>
+                        <div class="list-item-vt">
+                            <div><img src="./images/quacau.png" alt=""></div>
+                            <p>Phong cách sống toàn cầu</p>
+                        </div>
+                        <div class="list-item-vt">
+                            <div><img src="./images/thuongmai.png" alt=""></div>
+                            <p>Thành phố thương mại quốc tế</p>
+                        </div>
+                        <div class="list-item-vt">
+                            <div><img src="./images/tangtruong.png" alt=""></div>
+                            <p>Tài sản truyền đời sinh lời vượt trội</p>
+                        </div>
+                        <div class="list-item-vt">
+                            <div><img src="./images/phaply.png" alt=""></div>
+                            <p>Pháp lý an toàn tuyệt đối</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="dangky">
+            <div class="mota-dk">
+                <h3>Nhận TRỌN BỘ THÔNG TIN</h3>
+                <p>Để tiết kiệm thời gian tìm hiểu dự án, quý anh/chị vui lòng để lại thông tin liên hệ, chuyên viên
+                    kinh doanh sẽ kết nối và gửi thông tin cho anh chị qua SĐT/ZALO/VIBER/EMAIL.</p>
+                <p>Hoặc liên hệ HOTLINE: <b>0985.003.003</b></p>
+            </div>
+            <div class="dangky_content__form">
+                <form action="">
+                    <input type="text" placeholder="Tên của quý khách">
+                    <input type="number" placeholder="Nhập số điện thoại">
+                    <input type="email" placeholder="Nhập email">
+                    <input type="submit" value="Đăng ký">
+                </form>
+            </div>
+        </div>
+        <div class="iframe-home" id="vitri-home">
+            <iframe src="https://kuula.co/share/collection/7KBJM?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=1" frameborder="0"
+                width="100%" height="800px"></iframe>
+        </div>
+        <div id="tongthevt" class="gallery">
+            <a
+               href="./images/tong-the-vitri.jpg"
+               data-pswp-width="1875"
+               data-pswp-height="900"
+               target="_blank"
+               >
+               <img src="./images/tong-the-vitri.jpg" alt="">
+            </a>
+            <div class="cap-tongthe">
+                <p>Địa thế Vượng khí Sinh tài tại đô thị cổ – KINH ĐÔ CỔ LOA được bao bọc bởi 4 dòng sông lịch sử: Sông
+                    HỒNG – Sông ĐUỐNG – Sông NGŨ HUYỆN KHÊ – Sông HOÀNG GIANG</p>
+            </div>
+        </div>
+        <div id="loaihinh">
+            <div class="">
+                <div class="ct-loaihinh">
+                    <div class="list-item-lh">
+                        <div class="right-lh">
+                            <div class="title-r-lh">
+                                <h2>VỊ TRÍ</h2>
+                                <h3>TÂM ĐIỂM SIÊU KẾT NỐI</h3>
+                            </div>
+                            <div class="ct-r-lh ct-r-lh-p">
+                                <p>Tọa lạc tại vị trí chiến lược của Trung tâm Kinh tế – Tài chính mang tầm khu vực và
+                                    thế giới, Vinhomes Global Gate thừa hưởng những cú hích hạ tầng mạnh mẽ từ Quy hoạch
+                                    Đồng bằng Sông Hồng, xứng tầm một thành phố thương mại quốc tế phía Bắc Thủ đô.</p>
+                                <p>❝ Tâm điểm phía Đông Bắc liền kề lõi trung tâm Thủ đô.</p>
+                                <p>❝ Siêu kết nối nhanh chóng tới sân bay Quốc tế Nội Bài, trung tâm Hà Nội và vùng kinh
+                                    tế trọng điểm miền Bắc: Hải Phòng, Quảng Ninh, Bắc Ninh, Bắc Giang, Thái Nguyên</p>
+                                <p>❝ 5 phút tới hồ Hoàn Kiếm</p>
+                                <p>❝ 15 phút tới sân bay Nội Bài</p>
+                                <p>❝ 15 phút đến Vinhomes Riverside.</p>
+                            </div>
+
+                        </div>
+                        <div class="left-lh">
+                            <img src="./images/map.jpg" alt="">
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="hinhanh gallery">
+            <a
+               href="./images/ft-img.jpg"
+               data-pswp-width="1875"
+               data-pswp-height="900"
+               target="_blank"
+               >
+               <img src="./images/ft-img.jpg" alt="">
+            </a>
+        </div>
+        <div id="dangky">
+            <div class="mota-dk">
+                <h3>Nhận TRỌN BỘ THÔNG TIN</h3>
+                <p>Để tiết kiệm thời gian tìm hiểu dự án, quý anh/chị vui lòng để lại thông tin liên hệ, chuyên viên
+                    kinh doanh sẽ kết nối và gửi thông tin cho anh chị qua SĐT/ZALO/VIBER/EMAIL.</p>
+                <p>Hoặc liên hệ HOTLINE: <b>0985.003.003</b></p>
+            </div>
+            <div class="dangky_content__form">
+                <form action="">
+                    <input type="text" placeholder="Tên của quý khách">
+                    <input type="number" placeholder="Nhập số điện thoại">
+                    <input type="email" placeholder="Nhập email">
+                    <input type="submit" value="Đăng ký">
+                </form>
+            </div>
+        </div>
+        <div id="hethong" class="bg-blue-page">
+            <div class="over-bg"></div>
+            <div class="container">
+                <div class="ct-ht">
+                    <div class="box-title-ht">
+                        <div class="title-ht">
+                            <h3>TỔNG MẶT BẰNG</h3>
+                            <h4>VINHOMES GLOBAL GATE</h4>
+                        </div>
+                        <div class="desc-title-ht">
+                            <p>Vinhomes Global Gate có quy mô 385ha với hơn 40ha cây xanh và mặt nước, 7,4ha công viên
+                                nội khu trải dọc dự án với nhiều cảnh quan điểm nhấn và 32ha hồ trung tâm.</p>
+                        </div>
+                    </div>
+                    <div class="desc-sub-ht">
+                        <h3>TỔNG DỰ ÁN ĐƯỢC CHIA THÀNH 3 PHÂN KHU:</h3>
+                        <div class="content-desc-sub-ht">
+                            <div class="line-content-desc-sub-ht">
+                                <b>1. PHÂN KHU TINH HOA</b> tọa lạc tại vị trí đắc địa nhất Vinhomes Global Gate là biểu
+                                tượng của sự sang trọng đẳng cấp hàng đầu tại thành phố giao thương nơi cội nguồn di
+                                sản. Sở hữu tầm view đắt giá ra sông Hồng nằm liền kề công viên Xứ sở thần tiên 5,6ha,
+                                hồ điều hòa trung tâm và đối diện Trung tâm Hội chợ triển lãm Quốc gia 90ha TOP 1 châu Á
+                                – TOP 2 thế giới.
+                            </div>
+                            <div class="line-content-desc-sub-ht">
+                                <b>2. PHÂN KHU THỊNH VƯỢNG</b> tọa lạc ngay mặt đường Trường Sa, được thiết kế với mật
+                                độ xây dựng thấp, thừa hưởng hệ thống công viên và kênh đào nội khu rộng lớn tạo nên một
+                                không gian sống riêng tư, yên tĩnh, giao hòa với thiên nhiên.
+                            </div>
+                            <div class="line-content-desc-sub-ht">
+                                <b>3. PHÂN KHU CÁT TƯỜNG</b> nằm ở phía Đông Nam khu đô thị, 1 mặt tiếp giáp với đường
+                                quy hoạch từ cầu Tứ Liên đến Quốc lộ 3, 1 mặt giáp đường Trường Sa và tuyến Metro số 4,
+                                nằm gần Vincom Mega Mall, đối diện Trung tâm Hội chợ Triển lãm Quốc gia và khách sạn
+                                Marriot.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="img-box-desc-ht gallery">
+                        <a
+                            href="./images/mat-bang.webp"
+                            data-pswp-width="1875"
+                            data-pswp-height="900"
+                            target="_blank"
+                            >
+                            <img src="./images/mat-bang.webp" alt="">
+                        </a>
+                        
+                    </div>
+                    <div class="slide-box-desc-ht">
+                        <div class="slider-lh-s gallery">
+                            <div class="item-sl">
+                                <a
+                                    href="./images/mbpk-thinh-vuong-01-scaled.jpg"
+                                    data-pswp-width="1875"
+                                    data-pswp-height="900"
+                                    target="_blank"
+                                    >
+                                    <img src="./images/mbpk-thinh-vuong-01-scaled.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="item-sl">
+                                <a
+                                    href="./images/mbphan-khu-cat-tuong-01-scaled.jpg"
+                                    data-pswp-width="1875"
+                                    data-pswp-height="900"
+                                    target="_blank"
+                                    >
+                                    <img src="./images/mbphan-khu-cat-tuong-01-scaled.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="item-sl">
+                                <a
+                                    href="./images/mbpk-tinh-hoa-01-scaled.jpg"
+                                    data-pswp-width="1875"
+                                    data-pswp-height="900"
+                                    target="_blank"
+                                    >
+                                    <img src="./images/mbpk-tinh-hoa-01-scaled.jpg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="dangky">
+            <div class="mota-dk">
+                <h3>Nhận TRỌN BỘ THÔNG TIN</h3>
+                <p>Để tiết kiệm thời gian tìm hiểu dự án, quý anh/chị vui lòng để lại thông tin liên hệ, chuyên viên
+                    kinh doanh sẽ kết nối và gửi thông tin cho anh chị qua SĐT/ZALO/VIBER/EMAIL.</p>
+                <p>Hoặc liên hệ HOTLINE: <b>0985.003.003</b></p>
+            </div>
+            <div class="dangky_content__form">
+                <form action="">
+                    <input type="text" placeholder="Tên của quý khách">
+                    <input type="number" placeholder="Nhập số điện thoại">
+                    <input type="email" placeholder="Nhập email">
+                    <input type="submit" value="Đăng ký">
+                </form>
+            </div>
+        </div>
+        <div id="maunha">
+            <div class="item-maunha bg-br1">
+                <div class="item-title-maunha">
+                    <div class="box-item-title-mn">
+                        <h3>MẪU NHÀ</h3>
+                        <h3>PHÂN KHU TINH HOA</h3>
+                    </div>
+                </div>
+                <div class="item-img-maunha">
+                    <img src="./images/Salekit-09.11-E-10-min.png" alt="">
+                </div>
+            </div>
+            <div class="full-img gallery" style="padding: 30px;">
+                <a
+                    href="./images/Salekit-09.11-E-14-min.png"
+                    data-pswp-width="1875"
+                    data-pswp-height="900"
+                    target="_blank"
+                    >
+                    <img src="./images/Salekit-09.11-E-14-min.png" alt="">
+                </a>
+            </div>
+        </div>
+        <div id="dangky">
+            <div class="mota-dk">
+                <h3>Nhận TRỌN BỘ THÔNG TIN</h3>
+                <p>Để tiết kiệm thời gian tìm hiểu dự án, quý anh/chị vui lòng để lại thông tin liên hệ, chuyên viên
+                    kinh doanh sẽ kết nối và gửi thông tin cho anh chị qua SĐT/ZALO/VIBER/EMAIL.</p>
+                <p>Hoặc liên hệ HOTLINE: <b>0985.003.003</b></p>
+            </div>
+            <div class="dangky_content__form">
+                <form action="">
+                    <input type="text" placeholder="Tên của quý khách">
+                    <input type="number" placeholder="Nhập số điện thoại">
+                    <input type="email" placeholder="Nhập email">
+                    <input type="submit" value="Đăng ký">
+                </form>
+            </div>
+        </div>
+        <div id="maunha">
+            <div class="item-maunha bg-br1">
+                <div class="item-img-maunha">
+                    <img src="./images/Salekit-09.11-E-16-min.png" alt="">
+                </div>
+                <div class="item-title-maunha">
+                    <div class="box-item-title-mn">
+                        <h3>MẪU NHÀ</h3>
+                        <h3>PHÂN KHU THỊNH VƯỢNG</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="full-img gallery" style="padding: 30px;">
+                <a
+                    href="./images/Salekit-09.11-E-20-min.png"
+                    data-pswp-width="1875"
+                    data-pswp-height="900"
+                    target="_blank"
+                    >
+                    <img src="./images/Salekit-09.11-E-20-min.png" alt="">
+                </a>
+            </div>
+        </div>
+        <div id="dangky">
+            <div class="mota-dk">
+                <h3>Nhận TRỌN BỘ THÔNG TIN</h3>
+                <p>Để tiết kiệm thời gian tìm hiểu dự án, quý anh/chị vui lòng để lại thông tin liên hệ, chuyên viên
+                    kinh doanh sẽ kết nối và gửi thông tin cho anh chị qua SĐT/ZALO/VIBER/EMAIL.</p>
+                <p>Hoặc liên hệ HOTLINE: <b>0985.003.003</b></p>
+            </div>
+            <div class="dangky_content__form">
+                <form action="">
+                    <input type="text" placeholder="Tên của quý khách">
+                    <input type="number" placeholder="Nhập số điện thoại">
+                    <input type="email" placeholder="Nhập email">
+                    <input type="submit" value="Đăng ký">
+                </form>
+            </div>
+        </div>
+        <div id="maunha">
+            <div class="item-maunha bg-br1">
+                <div class="item-title-maunha">
+                    <div class="box-item-title-mn">
+                        <h3>MẪU NHÀ</h3>
+                        <h3>PHÂN KHU CÁT TƯỜNG</h3>
+                    </div>
+                </div>
+                <div class="item-img-maunha">
+                    <img src="./images/Salekit-09.11-E-21-min.png" alt="">
+                </div>
+            </div>
+            <div class="full-img gallery" style="padding: 30px;">
+                <a
+                    href="./images/Salekit-09.11-E-24-min.png"
+                    data-pswp-width="1875"
+                    data-pswp-height="900"
+                    target="_blank"
+                    >
+                    <img src="./images/Salekit-09.11-E-24-min.png" alt="">
+                </a>
+            </div>
+        </div>
+        <div id="dangky">
+            <div class="mota-dk">
+                <h3>Nhận TRỌN BỘ THÔNG TIN</h3>
+                <p>Để tiết kiệm thời gian tìm hiểu dự án, quý anh/chị vui lòng để lại thông tin liên hệ, chuyên viên
+                    kinh doanh sẽ kết nối và gửi thông tin cho anh chị qua SĐT/ZALO/VIBER/EMAIL.</p>
+                <p>Hoặc liên hệ HOTLINE: <b>0985.003.003</b></p>
+            </div>
+            <div class="dangky_content__form">
+                <form action="">
+                    <input type="text" placeholder="Tên của quý khách">
+                    <input type="number" placeholder="Nhập số điện thoại">
+                    <input type="email" placeholder="Nhập email">
+                    <input type="submit" value="Đăng ký">
+                </form>
+            </div>
+        </div>
+        <div id="tienich">
+            <div class="over-bg"></div>
+            <div class="container">
+                <div class="content-tienich">
+                    <div class="title-tienich">
+                        <h3>TIỆN ÍCH</h3>
+                        <p>PHONG CÁCH SỐNG TOÀN CẦU GIỮA MIỀN DI SẢN</p>
+                    </div>
+                    <div class="item-tienich">
+                        <div class="img-item-tienich gallery">
+                            <a
+                                href="./images/banner.jpg"
+                                data-pswp-width="1875"
+                                data-pswp-height="900"
+                                target="_blank"
+                            >
+                                <img src="./images/banner.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="cap-item-tienich">
+                            <h3>TRUNG TÂM HỘI CHỢ TRIỂN LÃM QUỐC GIA – THE GRAND EXPO</h3>
+                            <p>Quy mô 90ha, được lấy cảm hứng thiết kế từ hình ảnh thần Kim Quy, chia thành 9 phân khu,
+                                04 công viên triển lãm ngoài trời 20,6ha, đứng thứ 1 Châu Á và thứ 2 thế giới về quy mô
+                                không gian triển lãm ngoài trời.</p>
+                        </div>
+                    </div>
+                    <div class="item-tienich">
+                        <div class="img-item-tienich gallery">
+                            <a
+                                href="./images/image-2.jpg"
+                                data-pswp-width="1875"
+                                data-pswp-height="900"
+                                target="_blank"
+                            >
+                                <img src="./images/image-2.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="cap-item-tienich">
+                            <h3>TTỔ HỢP KHÁCH SẠN 5 SAO VÀ VĂN PHÒNG HẠNG A</h3>
+                            <p>Thiết kế đặc biệt, được vận hành bởi thương hiệu khách sạn hàng đầu thế giới</p>
+                        </div>
+                    </div>
+                    <div class="item-tienich">
+                        <div class="img-item-tienich gallery">
+                            <a
+                                href="./images/image-4.jpg"
+                                data-pswp-width="1875"
+                                data-pswp-height="900"
+                                target="_blank"
+                            >
+                                <img src="./images/image-4.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="cap-item-tienich">
+                            <h3>CÔNG VIÊN WONDERLAND</h3>
+                            <p>Quy mô 5,6ha, lấy cảm hứng từ những câu chuyện cổ tích nuôi dưỡng tâm hồn trẻ thơ, công
+                                viên Xứ Sở Thần Tiên là nơi lý tưởng để trẻ em thỏa sức vui chơi, khám phá và phát triển
+                                mọi giác quan.</p>
+                        </div>
+                    </div>
+                    <div class="item-tienich">
+                        <div class="img-item-tienich gallery">
+                            <a
+                                href="./images/image-3.jpg"
+                                data-pswp-width="1875"
+                                data-pswp-height="900"
+                                target="_blank"
+                            >
+                                <img src="./images/image-3.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="cap-item-tienich">
+                            <h3>TTTM VINCOM MEGA MALL</h3>
+                            <p>Quy mô 3ha với thiết kế hiện đại cùng hang trăm thương hiệu mua sắm phong phú</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="content-tienich">
+                    <h3 class="title-sub-tienich">
+                        CÁC TIỆN ÍCH CÔNG VIÊN TẠI VINHOMES GLOBAL GATE
+                    </h3>
+                    <div class="slide-box-desc-tienich gallery">
+                        <div class="slider-lh-s">
+                            <div class="item-sl">
+                                <a
+                                    href="./images/slidetienich1.jpg"
+                                    data-pswp-width="1875"
+                                    data-pswp-height="900"
+                                    target="_blank"
+                                >
+                                    <img src="./images/slidetienich1.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="item-sl">
+                                <a
+                                    href="./images/slidetienich2.jpg"
+                                    data-pswp-width="1875"
+                                    data-pswp-height="900"
+                                    target="_blank"
+                                >
+                                    <img src="./images/slidetienich2.jpg" alt="">
+                                </a> 
+                            </div>
+                            <div class="item-sl">
+                                <a
+                                    href="./images/slidetienich3.jpg"
+                                    data-pswp-width="1875"
+                                    data-pswp-height="900"
+                                    target="_blank"
+                                >
+                                    <img src="./images/slidetienich3.jpg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="dangky">
+            <div class="mota-dk">
+                <h3>Nhận TRỌN BỘ THÔNG TIN</h3>
+                <p>Để tiết kiệm thời gian tìm hiểu dự án, quý anh/chị vui lòng để lại thông tin liên hệ, chuyên viên
+                    kinh doanh sẽ kết nối và gửi thông tin cho anh chị qua SĐT/ZALO/VIBER/EMAIL.</p>
+                <p>Hoặc liên hệ HOTLINE: <b>0985.003.003</b></p>
+            </div>
+            <div class="dangky_content__form">
+                <form action="">
+                    <input type="text" placeholder="Tên của quý khách">
+                    <input type="number" placeholder="Nhập số điện thoại">
+                    <input type="email" placeholder="Nhập email">
+                    <input type="submit" value="Đăng ký">
+                </form>
+            </div>
+        </div>
+        <div id="tienich">
+            <div class="over-bg"></div>
+            <div class="container">
+                <div class="title-mtsong">
+                    <h3>MÔI TRƯỜNG SỐNG</h3>
+                    <h4>AN NINH AN TOÀN</h4>
+                    <h4>CỘNG ĐỒNG VĂN MINH</h4>
+                    <p>Với hệ thống an ninh tăng cường, đảm bảo an ninh cho cư dân 24/7, môi trường, cảnh quan, hệ thống
+                        hạ tầng kỹ thuật được chăm sóc chỉn chu, bộ máy CSKH tận tâm, hotline tổng đài 24/7. Đây sẽ là
+                        điểm đến hàng đầu của các sự kiện, lễ hội Văn hoá – Nghệ thuật – Thể thao quy mô bậc nhất Miền
+                        Bắc và Hải Phòng, nơi cộng đồng cư dân văn minh trong nước và quốc tế lựa chọn an cư và lập
+                        nghiệp</p>
+                </div>
+                <div class="slide-mtsong">
+                    <div class="slide-box-desc-tienich ">
+                        <div class="slider-lh-s">
+                            <div class="item-sl">
+                                <a
+                                    href="./images/THEDUC.png"
+                                    data-pswp-width="1875"
+                                    data-pswp-height="900"
+                                    target="_blank"
+                                >
+                                    <img src="./images/THEDUC.png" alt="">
+                                </a> 
+                            </div>
+                            <div class="item-sl">
+                                <a
+                                    href="./images/APP.png"
+                                    data-pswp-width="1875"
+                                    data-pswp-height="900"
+                                    target="_blank"
+                                >
+                                    <img src="./images/APP.png" alt="">
+                                </a> 
+                            </div>
+                            <div class="item-sl">
+                                <a
+                                    href="./images/BAOVE.png"
+                                    data-pswp-width="1875"
+                                    data-pswp-height="900"
+                                    target="_blank"
+                                >
+                                    <img src="./images/BAOVE.png" alt="">
+                                </a> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="dangky">
+            <div class="mota-dk">
+                <h3>Nhận TRỌN BỘ THÔNG TIN</h3>
+                <p>Để tiết kiệm thời gian tìm hiểu dự án, quý anh/chị vui lòng để lại thông tin liên hệ, chuyên viên
+                    kinh doanh sẽ kết nối và gửi thông tin cho anh chị qua SĐT/ZALO/VIBER/EMAIL.</p>
+                <p>Hoặc liên hệ HOTLINE: <b>0985.003.003</b></p>
+            </div>
+            <div class="dangky_content__form">
+                <form action="">
+                    <input type="text" placeholder="Tên của quý khách">
+                    <input type="number" placeholder="Nhập số điện thoại">
+                    <input type="email" placeholder="Nhập email">
+                    <input type="submit" value="Đăng ký">
+                </form>
+            </div>
+        </div>
+        <div id="footer">
+            <div class="ft-background"></div>
+            <div class="ladi-overlay"></div>
+            <div class="containers" style="position: relative;">
+                <div class="ct-footer">
+                    <div class="logo-footer">
+                        <img src="./images/Asset-1.png" alt="">
+                    </div>
+                    <div class="item-ft">
+                        <h3>Thông tin liên hệ</h3>
+                        <p><span><i class="fa fa-map-marker" aria-hidden="true"></i></span> Địa chỉ: Trường Sa, Đông
+                            Anh, Hà Nội</p>
+                        <p><span><i class="fa fa-phone" aria-hidden="true"></i></span> Hotline P. Kinh doanh: <a
+                                href="tel:0985003003">0985.003.003</a></p>
+                    </div>
+
+                    <div class="ct-footer__description">
+                        <p>Thông tin, các tiện ích trong tài liệu bán hàng chỉ mang tính chất tương đối và có thể được
+                            điều chỉnh theo quyết định của chủ đầu tư tại từng thời điểm đảm bảo phù hợp quy hoạch và
+                            thực tế thi công dự án.</p>
+                        <p>Hình ảnh mang tính minh họa định hướng. Các hình ảnh chi tiết sẽ được Chủ đầu tư cập nhật
+                            công khai trong quá trình triển khai.</p>
+                        <p>Các thông tin cam kết chính thức sẽ được quy định cụ thể tại Hợp đồng mua bán. Việc quản lý,
+                            vận hành và kinh doanh của Khu đô thị sẽ theo quy định của Ban quản lý.</p>
+                        <ul>
+                            <li>Chính sách bảo mật</li>
+                            <li>Điều khoản sử dụng</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright"><span>Copyright . All rights reserved.</span></div>
+        </div>
+        <div id="phone-home">
+            <a href="tel:0985003003"><i class="fa fa-phone" aria-hidden="true"></i> <span>0985.003.003</span></a>
+        </div>
+
+
+
+    </div>
+    <!-- end #page -->
+
+
+
+    <script src="js/jquery.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="css/bootstrap/js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/owl.carousel.js"></script>
+    <script src="js/slick.min.js"></script>
+    <!-- swiper JS -->
+    <script src="https://unpkg.com/photoswipe/dist/photoswipe-lightbox.esm.js"></script>
+    <!-- copy-paste the code under codepen js tab her (wrap with script tag) -->
+    <!-- Metis Menu Plugin JavaScript -->
+    <script src="js/index.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $(window).bind('mousewheel', function (event) {
+                if (event.originalEvent.wheelDelta >= 0) {
+                    $("div#header").addClass('unpin');
+                } else {
+                    $("div#header").removeClass('unpin');
+                }
+            });
+        });
+
+        window.onscroll = function () {
+            scrollFunction()
+        };
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 177 || document.documentElement.scrollTop > 160) {
+                $('#header').addClass('navfix');
+            } else {
+                $('#header').removeClass('navfix');
+            }
+        }
+
+        $('.menu-nav ul li a').click(function () {
+            document.querySelectorAll('.menu-nav ul li a').forEach(el => el.classList.remove('active'));
+            $(this).addClass('active');
+            const elm = $(this).data("id") || null;
+            if (elm) {
+                let number = elm === "sukien" ? 170 : 48;
+                $('html, body').animate({
+                    scrollTop: $(`#${elm}`).offset().top - number
+                }, 'slow');
+            }
+        });
+        $('.menu-nav__mobile__title').click(function () {
+            $(this).parent().toggleClass('open');
+        });
+    </script>
+    <script type='module'>
+        import PhotoSwipeLightbox from 'https://cdn.jsdelivr.net/npm/photoswipe@5.3.7/dist/photoswipe-lightbox.esm.js';
+        const lightbox = new PhotoSwipeLightbox({
+            gallery: '.image-gallery',
+            children: '.gallery a',
+            initialZoomLevel: 'fill',
+            secondaryZoomLevel: 'fit',
+
+            imageClickAction: 'close',
+            tapAction: 'close',
+            pswpModule: () => import('https://cdn.jsdelivr.net/npm/photoswipe@5.3.7/dist/photoswipe.esm.js')
+        });
+        lightbox.init();
+     </script>
+
+</body>
+
+</html>
